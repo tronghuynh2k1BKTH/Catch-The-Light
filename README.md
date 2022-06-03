@@ -3,3 +3,4 @@
 - After reaching the highest limit will get a beautiful led effect. The project uses 8051 microcontrollers to control more than 50 RGB LEDs, using interrupt, and de-noising the button. 
 - Number of contributors: 3 (I'm the leader)
 - Sources: https://drive.google.com/file/d/18VvDYf8v33QWw8uQYP8ic0kSA9O9-2a2/view?usp=sharing 
+- Video Demo: https://www.youtube.com/watch?v=2crwyS4RivE&ab_channel=kenhnaycuahuynh
